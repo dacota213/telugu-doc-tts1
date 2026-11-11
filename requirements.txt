@@ -1,0 +1,6 @@
+streamlit
+edge-tts
+easyocr
+pypdf
+python-docx
+pillow
